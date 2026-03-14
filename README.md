@@ -90,7 +90,7 @@ https://theoehrly.github.io/Fast-F1/
 ## 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/f1-live-analytics-dashboard.git
+git clone https://github.com/CROSSHEART05/f1-live-analytics-dashboard.git
 cd f1-live-analytics-dashboard
 ```
 
