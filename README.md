@@ -91,7 +91,7 @@ https://theoehrly.github.io/Fast-F1/
 
 ```bash
 git clone https://github.com/CROSSHEART05/f1-live.git
-cd f1-live-analytics-dashboard
+cd f1-live
 ```
 
 ---
@@ -107,7 +107,7 @@ pip install streamlit pandas requests fastf1 streamlit-autorefresh
 ## 3️⃣ Run the dashboard
 
 ```bash
-streamlit run f1_dashboard.py
+python -m streamlit run f1_dashboard.py
 ```
 
 The dashboard will open in your browser:
@@ -118,20 +118,6 @@ http://localhost:8501
 
 ---
 
-# 📂 Project Structure
-
-```
-F1-Live-Analytics-Dashboard
-│
-├── f1_dashboard.py
-├── f1_cache/
-├── images/
-│   └── dashboard_preview.png
-├── requirements.txt
-└── README.md
-```
-
----
 
 # 🧠 How the Dashboard Works
 
