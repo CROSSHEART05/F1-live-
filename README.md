@@ -150,10 +150,10 @@ The dashboard refreshes automatically to update live race data.
 ```python
 from streamlit_autorefresh import st_autorefresh
 
-st_autorefresh(interval=15000, key="f1_refresh")
+st_autorefresh(interval=30000, key="f1_refresh")
 ```
 
-Refresh interval: **15 seconds**
+Refresh interval: **30 seconds**
 
 ---
 
