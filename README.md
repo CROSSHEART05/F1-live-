@@ -14,8 +14,8 @@ The dashboard integrates **OpenF1 telemetry data** and **FastF1 timing data** to
 
 ![Dashboard Screenshot](images/dashboard_preview.png)
 
-*(Add a screenshot of your Streamlit dashboard here after running it.)*
-
+<img src="Screenshot 2026-03-14 205812.png" width="600">
+<img src="Screenshot 2026-03-14 205825.png" width="600">
 ---
 
 # 🚀 Features
