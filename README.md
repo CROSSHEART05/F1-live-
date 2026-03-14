@@ -187,8 +187,8 @@ It is designed as a **portfolio project for Data Science, AI, and Machine Learni
 
 **Akshat Kumar Chauhan**
 
-Computer Science Engineering Student
-AI / Machine Learning Enthusiast
+Computer Science 
+AI / Machine Learning Engineering Student 
 
 ---
 
