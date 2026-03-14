@@ -8,15 +8,12 @@
 A **real-time Formula 1 analytics dashboard** built using **Python and Streamlit** that visualizes live race data, lap statistics, and official session results.
 The dashboard integrates **OpenF1 telemetry data** and **FastF1 timing data** to provide insights similar to professional motorsport analytics platforms.
 
----
-
 # 📸 Dashboard Preview
 
 ![Dashboard Screenshot](images/dashboard_preview.png)
 
 <img src="Screenshot 2026-03-14 205812.png" width="600">
 <img src="Screenshot 2026-03-14 205825.png" width="600">
----
 
 # 🚀 Features
 
